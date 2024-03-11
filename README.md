@@ -1,31 +1,31 @@
 <h3 align="center"> Ersa </h3>
-<h4 align="center"> Lookup DNS via command line </h4>
+<h6 align="center"> Lookup DNS via command line </h6>
 
-_**install from script**_
+**install from script**
 ```
 git clone https://github.com/rulanugrh/ersa.git
 cd ersa
 sudo ./install.sh
 ```
 
-_**self build**_
+**self build**
 ```
 git clone https://github.com/rulanugrh/ersa.git
 cd ersa
 go build -o ersa
 ```
 
-_**install (windows user)**_
+**install (windows user)**
 ```
 you can copy file `build/ersa.exe` if you are arch x64 bit
 ```
 
-_**how to use**_
+**how to use**
 ```
 ersa [DOMAIN_NAME]
 ```
 
-_*screenshot*_
+**screenshot**
 <div align="center">
     <img src=".github/ss.jpg" />
 </div>
