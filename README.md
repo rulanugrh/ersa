@@ -2,14 +2,14 @@
 <h6 align="center"> Lookup DNS via command line </h6>
 
 **install from script**
-```
+```bash
 git clone https://github.com/rulanugrh/ersa.git
 cd ersa
 sudo ./install.sh
 ```
 
 **self build**
-```
+```bash
 git clone https://github.com/rulanugrh/ersa.git
 cd ersa
 go build -o ersa
@@ -21,7 +21,7 @@ you can copy file `build/ersa.exe` if you are arch x64 bit
 ```
 
 **how to use**
-```
+```bash
 ersa [DOMAIN_NAME]
 ```
 
