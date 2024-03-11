@@ -1,6 +1,7 @@
 <h3 align="center"> Ersa </h3>
 <h6 align="center"> Lookup DNS via command line </h6>
 
+## Installation
 **install from script**
 ```bash
 git clone https://github.com/rulanugrh/ersa.git
@@ -20,12 +21,12 @@ go build -o ersa
 you can copy file `build/ersa.exe` if you are arch x64 bit
 ```
 
-**how to use**
-```bash
+## Usage
+```
 ersa [DOMAIN_NAME]
 ```
 
-**screenshot**
+## Screenshot
 <div align="center">
     <img src=".github/ss.jpg" />
 </div>
